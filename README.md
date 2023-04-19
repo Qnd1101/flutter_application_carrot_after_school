@@ -1,4 +1,4 @@
-# flutter_application_carrot_After_school
+# flutter_application_carrot_after_school
 
 A new Flutter project.
 
